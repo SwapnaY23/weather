@@ -27,10 +27,3 @@
 * [Picasso](http://square.github.io/picasso/) - A powerful image downloading and caching library for Android
 
 
-
-## Acknowledgments
-* Inspiration Simple Weather App
-* MaterialDesignDemo by Eajy
-
-## Licence
-MIT &copy; swapna
