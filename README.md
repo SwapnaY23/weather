@@ -16,7 +16,7 @@
 - Cities will be lost when you terminate the app process
 
 # Tested 
-- Nexus 6P running Android O 8.0 stock, One plus Andriod 10
+- One plus Andriod 10
 
 ## Built With
 
