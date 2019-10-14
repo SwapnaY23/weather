@@ -1,15 +1,9 @@
-# android-weather-app
+# Weather
 > A simple weather android app 
 
-![Sample image](img/screener_1503490999452.png) 
-
-# Requirements
- - Android 5.0 (API 21) or above 
- - Build with Android Studio 3.0 Beta 2
  
 # Features
  - Material Design
- - Add your favorites cities 
  - Android Cards
  - Refresh gestures pulling down from the top
  - Swipe to delete 
