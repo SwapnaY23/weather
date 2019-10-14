@@ -6,9 +6,7 @@ import android.support.v7.widget.helper.ItemTouchHelper;
 
 import com.coople.swapna.weather.interfaces.onSwipeListener;
 
-/**
- * Created by zhang on 2016.08.21.
- */
+
 public class ItemTouchHelperCallback extends ItemTouchHelper.Callback {
 
     private onSwipeListener swipeListener;
