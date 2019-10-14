@@ -11,9 +11,6 @@
  - Some meaningful animations
  - Simple and clean 
 
-# Disclaimer 
-- No data persistent was implement, still work in progress 
-- Cities will be lost when you terminate the app process
 
 # Tested 
 - One plus Andriod 10
