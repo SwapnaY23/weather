@@ -218,7 +218,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onFailure(Call<CityWeather> call, Throwable t) {
-                Toast.makeText(MainActivity.this,"Sorry, can't refresh right now.",Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this,"Sorry !!, can't refresh right now.",Toast.LENGTH_LONG).show();
             }
         });
     }
@@ -237,12 +237,12 @@ public class MainActivity extends AppCompatActivity {
                     recyclerView.scrollToPosition(cities.size()-1);
 
                 }else{
-                    Toast.makeText(MainActivity.this,"Sorry, city not found",Toast.LENGTH_LONG).show();
+                    Toast.makeText(MainActivity.this,"Sorry !!, city not found",Toast.LENGTH_LONG).show();
                 }
             }
             @Override
             public void onFailure(Call<CityWeather> call, Throwable t) {
-                Toast.makeText(MainActivity.this,"Sorry, weather services are currently unavailable",Toast.LENGTH_LONG).show();
+                Toast.makeText(MainActivity.this,"Sorry !!, weather services are currently unavailable",Toast.LENGTH_LONG).show();
             }
         });
     }
